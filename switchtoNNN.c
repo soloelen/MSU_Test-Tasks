@@ -106,33 +106,11 @@ int main(int argc, char *argv[])
 					current =  0;
 				if (file[current] != -1) {
 					sw = 1;
-				}
-				
+				}			
 			}
 			sw = 0;
 			swflag = 0;
 		}
 	}
-	
-	
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
